@@ -1,1 +1,2 @@
-![Screenshot_30-4-2025_212219_sketchfab com](https://github.com/user-attachments/assets/04a603f3-ccca-4fd9-8e76-cd1c6db212ff) This is a Gorilla tag ik rig a made that comes with, expressions, color changing, and many more!
+![New Project (4)](https://github.com/user-attachments/assets/4bc616bd-f3cd-4544-ba31-8d7b71927eb8)
+This is a Gorilla tag ik rig a made that comes with, expressions, color changing, and many more!
