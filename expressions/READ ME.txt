@@ -1,0 +1,1 @@
+instructions: KEEP UPSIDE DOWN, on blender set the face as nearest, and turn off shapes on the model in blender.
