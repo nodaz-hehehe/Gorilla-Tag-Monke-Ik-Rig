@@ -5,6 +5,8 @@ Gorilla Tag Animation Rig for Blender
 
 ![New Project (6)](https://github.com/user-attachments/assets/7fef4430-be17-477f-bf85-69ec7ba2887e) 
 
+This file includes:
+
 * Gorilla Tag Player Model
 * Gorilla Tag Player Textures (Fur, Lava, Rock, Ice) (New updated textures)
 * Customizable Player Colors
