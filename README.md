@@ -1,4 +1,4 @@
-![New Project (4)](https://github.com/user-attachments/assets/4bc616bd-f3cd-4544-ba31-8d7b71927eb8)
+![New Project (6)](https://github.com/user-attachments/assets/7fef4430-be17-477f-bf85-69ec7ba2887e)
 This is a Gorilla tag ik rig I made that includes: 
 --------------------------------------------------
 * Gorilla Tag Player Model
