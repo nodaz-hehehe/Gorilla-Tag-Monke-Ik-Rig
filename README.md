@@ -11,12 +11,3 @@ __This Blender file includes:__
 * Gorilla Tag Player Textures (Fur, Lava, Rock, Ice) (New updated textures)
 * Customizable Player Colors
 * NEW GorillaTag name tag text object
-  
-__How to import the gorilla into a map__
-
-* Open a Blender Project that has the maps
-* Go to "File" > "Append"
-* Open the "Gorilla-Tag-IK-Rig.blend" file
-* Inside, open the "Collections" folder
-* Choose "Gorilla_IK_Rig"
-* Then click "Append"
