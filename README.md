@@ -11,3 +11,4 @@ __This Blender file includes:__
 * Gorilla Tag Player Textures (Fur, Lava, Rock, Ice) (New updated textures)
 * Customizable Player Colors
 * NEW GorillaTag name tag text object
+* Transparent background
